@@ -1,0 +1,46 @@
+.App {
+  padding: 20px;
+}
+
+.columns {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.column {
+  flex: 1 1 200px;
+  padding: 10px;
+  background: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.ticket-card {
+  background: #fff;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
+}
+
+.ticket-card h3 {
+  margin-top: 0;
+}
+
+.ticket-card p {
+  margin: 5px 0;
+}
+
+.ticket-card p:last-child {
+  font-weight: bold;
+}
+
+.ticket-card p span {
+  font-weight: normal;
+}
