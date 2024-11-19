@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 # Kanban
+Couldn't make it same due to time constraints
 =======
 # Getting Started with Create React App
 
